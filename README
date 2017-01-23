@@ -1,1 +1,16 @@
 Adding this file for trial on 2011.10.09 Thamizha hackthon day
+
+01/22/17
+To install the fonts in Ubuntu machine you can do the following:
+1) Download the ZIP file of this repository
+2) You need root permissions to run the file 'ubuntu_install.sh'
+3) Run the file '$sudo ./ubuntu_install.sh' from the same directory as 'README'
+4) Check by re-opening the gnome-terminal or xfce4-terminal under 'Edit > Preferences > Appearance' under 'Font' and you should see some of the fonts being listed.
+5) Verified to work with Ubuntu on Jan 2016.
+
+	Distributor ID:	Ubuntu
+	Description:	Ubuntu 16.04.1 LTS
+	Release:	16.04
+	Codename:	xenial
+	Distributor ID: Ubuntu Description: Ubuntu 16.04.1 LTS Release: 16.04 Codename: xenial
+
